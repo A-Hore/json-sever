@@ -113,5 +113,14 @@
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "email": "admin",
+      "confirmpassword": "admin"
+    }
   ]
 }
