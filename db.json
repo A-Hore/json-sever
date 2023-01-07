@@ -122,5 +122,6 @@
       "email": "admin",
       "confirmpassword": "admin"
     }
-  ]
+  ],
+  "task": [{ "task": "task-1" }]
 }
